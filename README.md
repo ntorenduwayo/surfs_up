@@ -8,6 +8,10 @@ The analysis results will assist me and the financier to refine our venture and 
 ## Results
 
 ### *	Summary Statistics for June
+
+![June Statistics](https://user-images.githubusercontent.com/34750363/155005569-eae7fe8f-6942-45aa-b94b-e44eacdd1f9c.png)
+![June Bar-graph](https://user-images.githubusercontent.com/34750363/155005620-875d984b-f4cc-4ace-9ca1-1b3b1c894b8c.png)
+
 ### *	Summary Statistics for December
 ### *	Summary Statistics: June vs December Temperatures
 
