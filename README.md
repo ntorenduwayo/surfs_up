@@ -9,16 +9,21 @@ The analysis results will assist me and the financier to refine our venture and 
 
 ### *	Summary Statistics for June
 
-![June Statistics](https://user-images.githubusercontent.com/34750363/155005569-eae7fe8f-6942-45aa-b94b-e44eacdd1f9c.png)
+#### Table 1: June Temperatures Statistics <br/>
+![June Statistics](https://user-images.githubusercontent.com/34750363/155005569-eae7fe8f-6942-45aa-b94b-e44eacdd1f9c.png) <br/>
+#### Graph 1: June Temperatures Statistics <br/>
 ![June Bar-graph](https://user-images.githubusercontent.com/34750363/155005620-875d984b-f4cc-4ace-9ca1-1b3b1c894b8c.png)
 
 ### *	Summary Statistics for December
 
-![December Statistics](https://user-images.githubusercontent.com/34750363/155005866-531ee6e0-af1f-476a-812f-1e844453d25c.png)
+#### Table 2: June Temperatures Statistics <br/>
+![December Statistics](https://user-images.githubusercontent.com/34750363/155005866-531ee6e0-af1f-476a-812f-1e844453d25c.png) <br/>
+#### Graph 2: June Temperatures Statistics <br/>
 ![December Bar-graph](https://user-images.githubusercontent.com/34750363/155005891-0f26f8ad-6cdd-4d38-ac9d-1a525210b937.png)
 
 ### *	Summary Statistics: June vs December Temperatures
 
+#### Table 3: June vs December Temperatures Statistics <br/>
 ![Summary Statistics - June vs December Temperatures](https://user-images.githubusercontent.com/34750363/155006221-323abc38-ee7e-45c7-9ee0-a9a1c8e4e25c.png)
 
 ## Summary
