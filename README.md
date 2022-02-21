@@ -9,6 +9,7 @@ The analysis results will assist me and the financier to refine our venture and 
 
 ### *	Summary Statistics for June
 
+The month of June had a maximum, a minimum, and a mean of 85.00-, 64.00-, and 74.94-degree Fahrenheit respectively. The temperatures appear to be normally distributed and the standard deviation is about 3.26.<br/>
 #### Table 1: June Temperatures Statistics <br/>
 ![June Statistics](https://user-images.githubusercontent.com/34750363/155005569-eae7fe8f-6942-45aa-b94b-e44eacdd1f9c.png) <br/>
 #### Graph 1: June Temperatures Statistics <br/>
@@ -16,13 +17,15 @@ The analysis results will assist me and the financier to refine our venture and 
 
 ### *	Summary Statistics for December
 
-#### Table 2: June Temperatures Statistics <br/>
+The month of December had a maximum, a minimum, and a mean of 83.00-, 56.00-, and 71.04-degree Fahrenheit respectively. The temperatures appear to be normally distributed and the standard deviation is about 3.75.<br>
+#### Table 2: December Temperatures Statistics <br/>
 ![December Statistics](https://user-images.githubusercontent.com/34750363/155005866-531ee6e0-af1f-476a-812f-1e844453d25c.png) <br/>
-#### Graph 2: June Temperatures Statistics <br/>
+#### Graph 2: December Temperatures Statistics <br/>
 ![December Bar-graph](https://user-images.githubusercontent.com/34750363/155005891-0f26f8ad-6cdd-4d38-ac9d-1a525210b937.png)
 
 ### *	Summary Statistics: June vs December Temperatures
 
+The month of June appeared to be about 3 degrees warmer than December. Also, June had a low standard deviation, thus, the temperature data points closer to the mean compared to December in which the temperature data points are further from the mean.<br/>
 #### Table 3: June vs December Temperatures Statistics <br/>
 ![Summary Statistics - June vs December Temperatures](https://user-images.githubusercontent.com/34750363/155006221-323abc38-ee7e-45c7-9ee0-a9a1c8e4e25c.png)
 
