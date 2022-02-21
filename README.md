@@ -19,4 +19,6 @@ The analysis results will assist me and the financier to refine our venture and 
 
 ### *	Summary Statistics: June vs December Temperatures
 
+![Summary Statistics - June vs December Temperatures](https://user-images.githubusercontent.com/34750363/155006221-323abc38-ee7e-45c7-9ee0-a9a1c8e4e25c.png)
+
 ## Summary
