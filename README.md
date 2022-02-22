@@ -30,3 +30,5 @@ The month of June appeared to be about 3 degrees warmer than December. Also, Jun
 ![Summary Statistics - June vs December Temperatures](https://user-images.githubusercontent.com/34750363/155006221-323abc38-ee7e-45c7-9ee0-a9a1c8e4e25c.png)
 
 ## Summary
+
+The Oahu’s weather data analysis revealed that June was warmer than December, and its data was less unstable due to its smaller standard deviation (i.e., smaller variance). Therefore, we concluded that the business performance would be stronger during the month of June, because most people tend to crave for ice cream during hot weather. In addition, June would be more attractive to locals and tourists that are interested in surfing due to its data’s smaller variance which translate into a less volatile weather condition. Hence, most likely high demand for surfboards at the Surf n’ Shake shop.
