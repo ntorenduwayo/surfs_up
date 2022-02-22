@@ -32,3 +32,9 @@ The month of June appeared to be about 3 degrees warmer than December. Also, Jun
 ## Summary
 
 The Oahu’s weather data analysis revealed that June was warmer than December, and its data was less unstable due to its smaller standard deviation (i.e., smaller variance). Therefore, we concluded that the business performance would be stronger during the month of June, because most people tend to crave for ice cream during hot weather. In addition, June would be more attractive to locals and tourists that are interested in surfing due to its data’s smaller variance which translate into a less volatile weather condition. Hence, most likely high demand for surfboards at the Surf n’ Shake shop.
+
+## Limitations and Suggestions
+
+Even though, the mean and standard deviation for June and December are different by just comparing the numbers. We could run specific statistical analyses to make sure that they are statistically different. For instance, we could run a Z-test and a T-test to compare their distribution and means respectively.
+Also, it wouldn’t hurt anything to analyze data for all the year’s months, opening more insights about the weather conditions on the island.
+
