@@ -25,7 +25,7 @@ The month of December had a maximum, a minimum, and a mean of 83.00-, 56.00-, an
 
 ### *	Summary Statistics: June vs December Temperatures
 
-The month of June appeared to be about 3 degrees warmer than December. Also, June had a low standard deviation, thus, the temperature data points closer to the mean compared to December in which the temperature data points are further from the mean.<br/>
+The month of June appeared to be about 3 degrees warmer than December. Also, June had a low standard deviation, thus, the temperature data points were closer to the mean compared to December in which the temperature data points were further away from the mean.<br/>
 #### Table 3: June vs December Temperatures Statistics <br/>
 ![Summary Statistics - June vs December Temperatures](https://user-images.githubusercontent.com/34750363/155006221-323abc38-ee7e-45c7-9ee0-a9a1c8e4e25c.png)
 
